@@ -1,7 +1,7 @@
 # Key Code
 This website will help you to generate the code of the key you have pressed in your keyboard.
 
-[Open Key Code site](https://muhammedraiyaan2.github.io/key-code)
+[Open Key Code site](https://muhammedraiyaan2.github.io/Key-Code)
 # About us
 If you want to know about us then go to the about us section.
 # contact us
